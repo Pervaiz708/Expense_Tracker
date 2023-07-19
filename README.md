@@ -1,6 +1,6 @@
-# cal_exp
+# Expense Tracker App
 
-A new Flutter project.
+A new Flutter App that would help you track your expenses on a daily basis. It'll soon be updated with some great features, So stay Tuned.
 
 ## Getting Started
 
